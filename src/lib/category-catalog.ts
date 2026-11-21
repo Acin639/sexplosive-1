@@ -1,7 +1,7 @@
 import { CATEGORY_PAGES, LEAKS_CATEGORY, type Category } from "@/lib/mock-data";
-import galleryImage from "@/assets/category-gallery.jpg";
+import galleryImage from "@/assets/category-gallery.png";
 import premiumImage from "@/assets/category-premium.jpg";
-import legendsImage from "@/assets/category-legends.jpg";
+import legendsImage from "@/assets/category-legend.png";
 
 export const FEATURED_CATEGORIES = [
   { slug: "gallery", title: "Gallery", seed: "gallery", image: galleryImage },
